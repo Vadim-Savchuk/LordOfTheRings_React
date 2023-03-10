@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LordOfTheRings_React/static/css/main.a1b95330.css",
-    "main.js": "/LordOfTheRings_React/static/js/main.c996bfb8.js",
+    "main.js": "/LordOfTheRings_React/static/js/main.ef330664.js",
     "static/media/character.png": "/LordOfTheRings_React/static/media/character.f9ad5a46be96fe60fc31.png",
     "static/media/home.jpg": "/LordOfTheRings_React/static/media/home.92f6bf7cd8e18891f0e0.jpg",
     "static/media/books.jpeg": "/LordOfTheRings_React/static/media/books.afdc95329da358585c29.jpeg",
@@ -10,10 +10,10 @@
     "static/media/movies.jpeg": "/LordOfTheRings_React/static/media/movies.823d86a0b002ca1a509d.jpeg",
     "index.html": "/LordOfTheRings_React/index.html",
     "main.a1b95330.css.map": "/LordOfTheRings_React/static/css/main.a1b95330.css.map",
-    "main.c996bfb8.js.map": "/LordOfTheRings_React/static/js/main.c996bfb8.js.map"
+    "main.ef330664.js.map": "/LordOfTheRings_React/static/js/main.ef330664.js.map"
   },
   "entrypoints": [
     "static/css/main.a1b95330.css",
-    "static/js/main.c996bfb8.js"
+    "static/js/main.ef330664.js"
   ]
 }
