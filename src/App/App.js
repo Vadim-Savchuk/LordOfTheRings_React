@@ -20,7 +20,7 @@ function App() {
                     <Route path='/movies'        element={<Movies />} />
                     <Route path='/character'     element={<Character />} />
                     <Route path='/character/:id' element={<HeroPage />} />
-                    <Route path='*'              element={<NotFound />} />
+                    <Route path='/*'              element={<NotFound />} />
                 </Routes>
             </BrowserRouter>
         </div>
