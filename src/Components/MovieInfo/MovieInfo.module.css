@@ -1,0 +1,22 @@
+.movieInfo {
+    opacity: 1;
+    min-width: 450px;
+    visibility: hidden;
+    padding: 40px 30px;
+    margin-right: 300px;
+    height: fit-content;
+    visibility: visible;
+    transition: opacity 0.2s;
+    background-color: rgb(255, 255, 255, 0.5);
+    box-shadow: -1px 3px 13px 10px rgba(255,255,255,0.73), inset -1px 3px 13px 10px rgba(255,255,255,0.73);
+}
+
+.movieInfo .name {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.elem {
+    font-size: 25px;
+    padding: 18px 0px;
+}

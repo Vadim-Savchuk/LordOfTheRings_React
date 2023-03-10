@@ -1,0 +1,20 @@
+.button{
+    top: 10%;
+    left: 10%;
+    color: black;
+    font-size: 25px;
+    position: absolute;
+    background: transparent;
+}
+
+.white {
+    color: white;
+}
+
+.black {
+    color: black;
+}
+
+.button:hover {
+    text-decoration: underline;
+}
